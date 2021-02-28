@@ -1,1 +1,1 @@
-# exercise-nodejs
+# server-side-rendering-exercise
